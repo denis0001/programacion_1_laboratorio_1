@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1494458326 source:e:\programacion\c\punteros practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"punteros.h"
+
+1494458632 e:\programacion\c\punteros practica\punteros.h
+
+1494458634 source:e:\programacion\c\punteros practica\punteros.c
+	"punteros.h"
+	<stdio.h>
+	<string.h>
+
