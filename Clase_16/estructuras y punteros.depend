@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1494513451 source:c:\users\alumno\desktop\estructuras y punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1494515322 source:c:\users\alumno\desktop\estructuras y punteros - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
