@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535550930 source:d:\franco\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
