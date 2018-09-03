@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1535981778 source:d:\franco\validaredad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"franco.h"
+
+1535983391 source:d:\franco\validaredad\franco.c
+
+1535983391 d:\franco\validaredad\franco.h
+
