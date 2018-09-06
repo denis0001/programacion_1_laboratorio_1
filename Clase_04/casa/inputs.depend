@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536275673 source:c:\users\gin\desktop\programacion\inputs\main.c
+	<stdio.h>
+	<stdlib.h>
+
